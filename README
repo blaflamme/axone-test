@@ -10,4 +10,4 @@ $ bin/buildout
 
 - Run the project
 
-$ bin/pserve --rleoad src/myproject/development.ini
+$ bin/pserve --reload src/myproject/development.ini
