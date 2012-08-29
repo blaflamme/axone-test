@@ -1,0 +1,11 @@
+bin
+lib
+include
+distribute*.gz
+.installed.cfg
+develop-eggs
+eggs
+*.pyc
+*.egg-info
+parts
+
