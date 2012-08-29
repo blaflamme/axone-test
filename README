@@ -11,3 +11,7 @@ $ bin/buildout
 - Run the project
 
 $ bin/pserve --reload src/myproject/development.ini
+
+- Point your browser to this address:
+
+http://localhost:6543
