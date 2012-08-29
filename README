@@ -1,0 +1,13 @@
+AXONE TEST
+==========
+
+Use these steps to initialize and run the project:
+
+- Bootstrap the buildout environment:
+
+$ python bootstrap.py
+$ bin/buildout
+
+- Run the project
+
+$ bin/pserve --rleoad src/myproject/development.ini
